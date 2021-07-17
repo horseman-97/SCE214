@@ -1,6 +1,9 @@
 # SCE214
 2021 spring system programming
 
+# 03/20
++ string compare
+
 ## 03/27
 + stack problem
 + Original problem link
